@@ -1,0 +1,2 @@
+// useful string properties & methods
+
